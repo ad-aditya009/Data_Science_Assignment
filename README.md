@@ -4,7 +4,7 @@ Requirements : Python3.6, pip3, pandas, jupyter-notebook
 Installation : Python3.6 -
                   step1) sudo add-apt-repository ppa:deadsnakes/ppa
                   step2) sudo apt update
-                  step3) sudo apt install python3.8
+                  step3) sudo apt install python3.6
                   
                pip3 - 
                   step1) sudo apt update
